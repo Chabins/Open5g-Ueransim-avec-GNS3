@@ -5,7 +5,7 @@ Dans ce projet nous allons voir comment simuler a l'aide de Open5gs les fonction
 - Ubuntu 20.04 LTS
 - Virtual Box
   
-##Procédure de mise en marche de notre projet : Open 5gs
+#Procédure de mise en marche de notre projet : Open 5gs
 
 But du projet : Simuler le Coeur du réseau 5g (5g SA) à l'aide de Open 5gs et nous allons simuler le gnb et l'UE à l'aide de Ueransim.
 
@@ -19,7 +19,7 @@ Etape 1 : Création des machines virtuelles
 
 3- Installation de 2 machines virtuelles (Open 5gs, Ueransim)
 
-4- Mot de passe des machines : Sudo 1234
+
 
 Etape 2 : Configuration des machines virtuelles
 
